@@ -1,0 +1,17 @@
+{
+  "name": "UCan Browse",
+  "version": "1.0",
+  "manifest_version": 1,
+  "description": "A handy extension that takes you to you favourite UC websites.",
+  "browser_action": {
+    "default_icon": "Icon.png",
+    "default_popup": "popup.html"
+  },
+  "icons": {
+	"16": "Icon_16.png",
+	"48": "Icon_48.png",
+	"128": "Icon_128.png"
+
+	}
+  
+}
